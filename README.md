@@ -7,7 +7,7 @@ SimpleBrinks est un plugin de convois de fonds simple.
 
 # 📚 Fonctionnalités:
 
-- Un fichier de config nommé **SimpleGoFast.json** où le nombre de policiers minimum, le gain, le point et la destination du GoFast sont configurables. Les GFPoint sont les coordonnées du point de commencement de GoFast et GFDestination sont les coordonées du point de destination. Il y a deux destinations différentes configurables Brinksdestination est la première possible et BrinksDestination2 est la deuxième possible. Chaque fois que vous commencerez un GoFast, une des deux destinations sera aléatoire selectionnée.
+- Un fichier de config nommé **SimpleBrinks.json** le gain, le point et les destinations du convoi de fonds sont configurables. Les BrinksPoint sont les coordonnées du point de commencement de convoi et BrinksDestination sont les coordonées du point de destination. Il y a deux destinations différentes configurables Brinksdestination est la première possible et BrinksDestination2 est la deuxième possible. Chaque fois que vous commencerez un GoFast, une des deux destinations sera aléatoire selectionnée.
 
 
 # ❔ Comment ça fonctionne ?
