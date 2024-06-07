@@ -1,4 +1,5 @@
-![image](https://github.com/SlakerDev/SimpleBrinks/assets/113236981/6fa318f0-df22-4789-94b6-af6bb21a0434)
+![image](https://github.com/SlakerDev/SimpleBrinks/assets/113236981/f2aeda2d-019a-4274-903c-2d58c37ca07b)
+
 
 
 # 📋 Description:
