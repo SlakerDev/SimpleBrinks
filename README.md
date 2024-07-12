@@ -9,7 +9,7 @@ SimpleBrinks est un plugin de convois de fonds simple.
 # ❔ Comment ça fonctionne ?
 Il y a un point dans le garage de la banque
 
-Quand le joueur va sur ce point, il peut choisir de prendre la mission de convoi de fonds ou pas. Si il la prends, le joueur doit se rendre sur les points de destinations marqués sur son GPS pour gagner la récompense pré-definie dans le fichier **SimpleBrinks.json** à chaque livraison.
+Quand le joueur va sur ce point, il peut choisir de prendre la mission de convoi de fonds ou pas. Si il la prends, le joueur à une armure qui s'équipe (200hp) et doit se rendre sur les points de destinations marqués sur son GPS pour gagner la récompense pré-definie dans le fichier **SimpleBrinks.json** à chaque livraison.
 
 La récompense par défaut est de **50€**
 
