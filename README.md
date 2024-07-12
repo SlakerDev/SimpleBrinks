@@ -5,10 +5,6 @@
 # 📋 Description:
 SimpleBrinks est un plugin de convois de fonds simple.
 
-# 📚  Fonctionnalités:
-
-- Un fichier de config nommé **SimpleBrinks.json** le gain, le point et les destinations du convoi de fonds sont configurables. Les BrinksPoint sont les coordonnées du point de commencement de convoi et BrinksDestination sont les coordonées du point de destination. Il y a 3 destinations différentes qui s'exectuerons à la suite, comme IRL.
-
 
 # ❔ Comment ça fonctionne ?
 Il y a un point dans le garage de la banque
@@ -16,6 +12,10 @@ Il y a un point dans le garage de la banque
 Quand le joueur va sur ce point, il peut choisir de prendre la mission de convoi de fonds ou pas. Si il la prends, le joueur doit se rendre sur les points de destinations marqués sur son GPS pour gagner la récompense pré-definie dans le fichier **SimpleBrinks.json** à chaque livraison.
 
 La récompense par défaut est de **50€**
+
+Le joueur peut se faire braquer si des criminels utilisent la commande /braquer sur le convoyeur de fonds.
+
+Il est impossible d'executer la commande /braquer et de lancer un convoi deux fois en moins de 2 heures
 
 # 📁 Installation:
 ➝ Téléchargez SimpleBrinks.dll depuis la page des releases : Release GitHub SimpleGoFast.
